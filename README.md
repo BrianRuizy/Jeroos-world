@@ -8,7 +8,7 @@ Learn Object Oriented Programming with the help of Jeroo!
 
 
 
-<img align="center" src="/JerooInterface.PNG" width="60%">
+<img align="center" src="/JerooUI.PNG" width="60%">
 </img>
 
 
