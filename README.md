@@ -13,7 +13,7 @@ Learn Object Oriented Programming with the help of Jeroo!
 
 #### File Extensions
 ``` 
-.jsc  //Jeroo Source Code
+.jsc  // Jeroo Source Code
 ```
  
  ``` 
