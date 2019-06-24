@@ -11,5 +11,13 @@ Learn Object Oriented Programming with the help of Jeroo!
 <img align="center" src="/JerooUI.PNG" width="60%">
 </img>
 
+#### File Extensions
+``` 
+.jsc  //Jeroo Source Code
+```
+ 
+ ``` 
+.jev  // Jeroo Enviroment
+```
 
 #### *For Educations Purposes Only\**
