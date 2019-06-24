@@ -11,13 +11,13 @@ Learn Object Oriented Programming with the help of Jeroo!
 <img align="center" src="/JerooUI.PNG" width="60%">
 </img>
 
-### File Extensions
+## File Extensions
 * **.jsc** - Jeroo Source Code
  
 * **.jev** - Jeroo Environment, for island maps
 
 
-### Creating Character Objects
+## Creating Character Objects
 ``` java
  Jeroo myKangaroo1 = new Jeroo();
  Jeroo mySecondKangaroo =  new Jeroo();
