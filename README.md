@@ -17,7 +17,7 @@ Learn Object Oriented Programming with the help of Jeroo!
 ```
  
  ``` 
-.jev  // Jeroo Environment
+.jev  // Jeroo Environment, for island maps
 ```
 
 #### *For Educations Purposes Only\**
